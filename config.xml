@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>telegramalerts</name>
+    <displayName><![CDATA[Module to setup Telegram alerts for new orders]]></displayName>
+    <version><![CDATA[0.1]]></version>
+    <description><![CDATA[With this module, you can setup telegram alert for new order events in prestashop]]></description>
+    <author><![CDATA[Deepak Kumar]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
